@@ -1,3 +1,4 @@
 # trabalhopoo
-trabalho feito no ecliose
-Todos os códigos estão na pasta bin 
+trabalho feito no eclipse <br>
+Todos os códigos estão na pasta bin ou src <br>
+
